@@ -1,0 +1,7 @@
+Number of 3D print per file:-
+1)glassholder4 * 1
+2)hope4 * 2
+3)standHope4 * 1
+4)stickForHope4 * 2
+
+Front Holes to hope4 and glassholder4 given in order to attach Levitator to the base of Spectrophotometer.
